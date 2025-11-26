@@ -1,7 +1,7 @@
 Sure! Here’s a **clean, ready-to-copy README** for your `LuxTrip` repository:
 
-![Alt text](<./public/Home%20(1).png>)
 ![Alt text](<./public/Home%20(2).png>)
+![Alt text](<./public/Home%20(1).png>)
 
 # LuxTrip
 
