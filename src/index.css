@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Forum&display=swap");
+
+@theme {
+  --font-display: "Forum", serif;
+}
+
+body {
+  font-family: "Forum", serif;
+}
+
+.side {
+  @apply mx-auto px-2 md:px-4;
+}
