@@ -1,9 +1,13 @@
 @import "tailwindcss";
 @import url("https://fonts.googleapis.com/css2?family=Forum&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
 
 @theme {
   --font-display: "Forum", serif;
+  --font-manrope: "Manrope", sans-serif;
   --color-black: #232323;
+  --color-gold-20: #79655e;
+  --color-gold-10: #e2d3ce;
 }
 
 body {
